@@ -21,7 +21,7 @@ This project began at [Dream Lab 2022](), a conference hosted by [the Price Lab 
 #### The Team
 
 - Cassandra Hradil ([website](https://cassandrahradil.com))
-- Hello, it is me!
+- Hello, it is me! 222
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
